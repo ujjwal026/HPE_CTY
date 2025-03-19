@@ -1,0 +1,3 @@
+[submodule "Idea1"]
+	path = Idea1
+	url = https://github.com/ujjwal026/prompt-filtering-api.git
